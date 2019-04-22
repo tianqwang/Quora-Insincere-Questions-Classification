@@ -1,8 +1,8 @@
 # Quora-Insincere-Questions-Classification
-This repository is for the Quora insincere questions classification competition in Kaggle.
+**45th Solution** of the Quora insincere questions classification competition in Kaggle.
 
 
-**45th Solution**
+
 ![rank](img/rank.png)
 
 <!--Finally this 2-month journey has finished, this is actually my first Kaggle competition I attend end to end. So excited to got the rank 45th and my first medal in Kaggle! 
