@@ -1,7 +1,7 @@
 # Quora-Insincere-Questions-Classification
 **45th Place Solution** of the Quora insincere questions classification competition in Kaggle.
 
-
+[Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
 ![rank](img/rank.png)
 
